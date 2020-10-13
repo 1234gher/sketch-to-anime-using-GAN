@@ -5,7 +5,7 @@ Dataset from kaggle.
 
 Link:- https://www.kaggle.com/wuhecong/danbooru-sketch-pair-128x
 
-all detail explaination including test results, references, is mention in ipynb notebook.
+all detail explaination including test results, references, is mentioned in ipynb notebook.
 
 if there is problem in loading the .ipynb in github, follow below steps:-
 
