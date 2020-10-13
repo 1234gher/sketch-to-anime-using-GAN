@@ -18,3 +18,5 @@ if there is problem in loading the .ipynb in github, follow below steps:-
 4)it asks to enter the Enter a GitHub URL, copy url from web browser,paste it in there and click on search icon (magnifying glass lookalike icon :) )
 
 5)done! now you can see the code.
+
+Note: there are images of architectures which unfortunatley are masked in ipynb file version you can refer PDF version of the document.
