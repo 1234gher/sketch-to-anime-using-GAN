@@ -19,4 +19,4 @@ if there is problem in loading the .ipynb in github, follow below steps:-
 
 5)done! now you can see the code.
 
-Note: there are images of architectures which unfortunatley are masked in ipynb file version you can refer PDF version of the document.
+note: if the .ipynb code is opened in colab you cannot see architecture images.
